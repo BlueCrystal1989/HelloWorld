@@ -1,8 +1,3 @@
-# HelloWorld
-First Repository
+什么都没有了
 
-this is very good
-
-new git
-
-good good study day day up!
+哈哈
